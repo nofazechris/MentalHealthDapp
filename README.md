@@ -81,10 +81,4 @@ If backend is separate, use [Render](https://render.com), [Railway](https://rail
 * JWT-based secure file uploads
 
 ---
-
-###  Todos Post-Deployment
-
-* [ ] Add dark mode?
-* [ ] Improve IPFS gateway display
-* [ ] Enhance Admin analytics (chart of severity stats)
-* [ ] Push onchain hashes to smart contract (future idea)
+ ### No future updates
